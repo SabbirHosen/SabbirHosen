@@ -1,36 +1,98 @@
-<h1 align="center">Hi 👋, I'm Sabbir Hosen</h1>
-<h3 align="center">A passionate Data Scientist</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=26&amp;duration=4000&amp;pause=1000&amp;color=0EA5E9&amp;center=true&amp;vCenter=true&amp;width=950&amp;lines=Hi+👋,+I'm+Sabbir+Hosen;Software+Engineer;AI+Architect+☁️;Backend+Maestro+🛠️;DevOps+Alchemist;Building+Brains+for+Machines+🤖+%26+Backbones+for+Systems+⚙️" alt="Typing SVG" />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sabbirhosen&label=Profile%20views&color=0e75b6&style=flat" alt="sabbirhosen" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning**
+<div align="center">
+  <a href="mailto:contact.sabbirhosen@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="tel:+8801745814067">
+    <img src="https://img.shields.io/badge/Phone-008000?style=for-the-badge&logo=google-voice&logoColor=white" />
+  </a>
+  <a href="https://github.com/SabbirHosen">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/sabbirhosen00/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
 
-- 💬 Ask me about **anything**
 
-- 📫 How to reach me **sabbircse44@gmail.com**
+---
 
-- ⚡ Fun fact **I don't have any**
+### 🧭 **Career Philosophy**  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/sabbir-hosen-3237b9174/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a>|<a href="https://www.facebook.com/fb.com/sabbir.hosen.00"><img src="https://cdn1.iconfinder.com/data/icons/social-media-2285/512/Colored_Facebook3_svg-128.png" width="40"></a>|<a href="mailto:sabbircse44@gmail.com"><img src="https://image.flaticon.com/icons/svg/281/281769.svg" width="40"></a>
-</p>
+> I bridge the gap between AI ambition and infrastructure reality. My focus: **resilient ML pipelines, scalable backend architectures, and DevOps automation**—ensuring AI doesn't just demo well but **delivers real-world impact**.  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sabbirhosen&" alt="sabbirhosen" /></p>
+---
 
-<details>
-  <summary>📚 Most Used Languages</summary>
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sabbirhosen&show_icons=true&locale=en&layout=compact" alt="sabbirhosen" /></p>
-</details>
+### 🛠️ Technical Arsenal  
 
-<details>
-  <summary>🌟 GitHub Stats</summary>
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sabbirhosen&show_icons=true&locale=en" alt="sabbirhosen" /></p>
-</details>
+**Languages & Frameworks**  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white) 
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white) 
+![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white) 
+![BlackSheep](https://img.shields.io/badge/BlackSheep-1E90FF?logo=fastapi&logoColor=white) 
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) 
+![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white) 
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white) 
 
-<details>
-  <summary>🏆 GitHub Trophy</summary>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sabbirhosen" alt="sabbirhosen" /></a> </p>
-</details>
+**AI/ML Stack**  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white) 
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white) 
+![LangChain](https://img.shields.io/badge/LangChain-00ADD8?logo=langchain&logoColor=white) 
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white) 
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&logoColor=white) 
+![Hugging Face](https://img.shields.io/badge/HuggingFace-F7931E?logo=huggingface&logoColor=white) 
+
+**Web Scraping**  
+![Scrapy](https://img.shields.io/badge/Scrapy-88E200?logo=scrapy&logoColor=white) 
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?logo=microsoft-edge&logoColor=white) 
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white) 
+![Beautiful Soup](https://img.shields.io/badge/Beautiful%20Soup-8DD6F9?logo=python&logoColor=white) 
+
+**Databases**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white) 
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) 
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white) 
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?logo=amazon-dynamodb&logoColor=white) 
+![Pinecone](https://img.shields.io/badge/Pinecone-1E293B?logo=pinecone&logoColor=white) 
+
+**DevOps & Cloud**  
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white) 
+![GCP](https://img.shields.io/badge/GCP-4285F4?logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) 
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white) 
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=github-actions&logoColor=white) 
+![Traefik](https://img.shields.io/badge/Traefik-EE6C4D?logo=traefik&logoColor=white) 
+![NGINX](https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=white) 
+<!--![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoft-azure&logoColor=white) -->
+
+**Tools & Messaging Queues**  
+![Celery](https://img.shields.io/badge/Celery-37814A?logo=celery&logoColor=white) 
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=white) 
+![Kong Gateway](https://img.shields.io/badge/Kong-002D72?logo=kong&logoColor=white)
+![Typesense](https://img.shields.io/badge/Typesense-FF0000?logo=typescript&logoColor=white) 
+![SERPAPI](https://img.shields.io/badge/SERPAPI-18A303?logo=google&logoColor=white) 
+<!--![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white) -->
+<!--![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white) -->
+
+**Project Management**  
+![Scrum](https://img.shields.io/badge/Scrum-0052CC?logo=jira&logoColor=white) 
+![Trello](https://img.shields.io/badge/Trello-0079BF?logo=trello&logoColor=white) 
+![Asana](https://img.shields.io/badge/Asana-F06A6A?logo=asana&logoColor=white) 
+
+
+---
+
+
+### 📈 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SabbirHosen&show_icons=true&theme=vision-friendly-dark&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SabbirHosen&layout=compact&theme=vision-friendly-dark&langs_count=6" />
+<!--   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sabbirhosen" alt="sabbirhosen" /> -->
+</div>
