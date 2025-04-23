@@ -1,6 +1,5 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=26&amp;duration=4000&amp;pause=1000&amp;color=0EA5E9&amp;center=true&amp;vCenter=true&amp;width=950&amp;lines=Hi+👋,+I'm+Sabbir+Hosen;Software+Engineer;AI+Architect+☁️;Backend+Maestro+🛠️;DevOps+Alchemist;Building+Brains+for+Machines+🤖+%26+Backbones+for+Systems+⚙️" alt="Typing SVG" />
-</div>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=950&lines=Hi+👋,+I'm+Sabbir+Hosen;Software+Engineer;AI+Architect+☁️;Backend+Maestro+🛠️;DevOps+Alchemist;Building+Brains+for+Machines+🤖+%26+Backbones+for+Systems+⚙️)
+
 
 
 <div align="center">
